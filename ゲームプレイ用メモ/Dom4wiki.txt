@@ -1,0 +1,20 @@
+国家リストシート（アクセスキー不要、１ファイル）
+
+国家シート（１ファイル、１行１国）
+key, name, race .... spell(array)
+country,...
+
+ユニット国家雇用条件シート（国数＝ファイル数）
+key	, name, cost, resouce,plane, mountain, ...
+Unitkey
+
+
+
+
+魔法インデックスシート（属性別）
+key, name, magic path, .....
+
+
+魔法詳細シート（アクセスキー不要）
+name, ....
+

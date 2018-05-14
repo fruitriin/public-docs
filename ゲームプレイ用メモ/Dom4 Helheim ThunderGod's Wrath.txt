@@ -1,0 +1,45 @@
+
+
+Construction 4
+風4 Winged Helmet
+風5 Bag of Winds
+
+Construction 6
+星2 Starshine Skullcap
+
+
+Evocation 4
+風3 Thunder Strike
+
+Evocation 5
+死2 Shadow Blast
+
+Evocation 6
+風5 Perpetual Storm
+星5 風3 The Wrath of God
+
+Conjuration 2
+風1 Summon Storm Power
+
+Conjuration 7
+風2 Gem2 Living Clouds
+
+Conjuration 8
+風5 Queen of Elemental Air
+
+Alt 7
+風5 Gem8 Fog Warriors
+
+Construction
+地3　　Gate Cleaver	城門突破
+死2緑1 Spirit Mask	魔法抵抗、Frighten自動発動
+風3　　Spirit Helmet
+風2土1 Silver Hauberk
+風2　　Winged Shoes
+水2　　Boots of Quickness
+
+風1　　 Dancing Trident
+風1地1　Dancing Shield
+風3　　 Flying Carpet
+風1　　 Ammulet of Missile Protection
+緑1地1　1Bear Claw Talisman

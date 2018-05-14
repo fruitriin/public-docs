@@ -1,0 +1,29 @@
+Marignon 
+土2星5死1緑3
+
+
+
+
+Alt4 風2 Wind Guide
+Enchant4 火4 Flaming Arrows
+Enchant6 風3 Arrow Fend
+
+Evocation9 星7 Strands of Arcane Power  
+Conj3 火2 Phenix Power
+Conj3 火1 Summon Lesser Fire Elemental
+Conj5 火3 Summon Fire Elemental
+Conj6 星4 Contact Harbinger 風3天使
+Conj7 
+Conj8 火5 King of Elemental Fire 
+Conj9 星7火2　Heavenly Choir　火4風4星4聖4天使
+
+
+Const2 緑3 Enormous Cauldron of Broth 食料+100
+Const4 緑2土1 Summer Sword　食料+100
+Const4 緑1 Endless Bag of Wine
+
+Const4 火4 Flame Helmet 火+1
+Const4 風4 Wing Helmet 風+1
+Const4 風5 Bag of Winds 風+5
+Const6 星2 Starshine　Skullcap 星+1
+Const4 星2土2 Crystal Coin 星+1
